@@ -281,7 +281,7 @@
       <ConformanceMode>true</ConformanceMode>
       <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
       <AdditionalIncludeDirectories>..\Library.VC\Nirvana\SRC\Include;..\Library.VC\Nirvana\ORB\Include;dumpolf\COFFI;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
-      <AdditionalOptions>/Zc:sizedDealloc /Zc:__cplusplus %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalOptions>/showFilenames /Zc:sizedDealloc /Zc:__cplusplus %(AdditionalOptions)</AdditionalOptions>
       <FunctionLevelLinking>true</FunctionLevelLinking>
     </ClCompile>
     <Link>
@@ -337,7 +337,7 @@
       <ConformanceMode>true</ConformanceMode>
       <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
       <AdditionalIncludeDirectories>..\Library.VC\Nirvana\SRC\Include;..\Library.VC\Nirvana\ORB\Include;dumpolf\COFFI;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
-      <AdditionalOptions>/Zc:sizedDealloc /Zc:__cplusplus %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalOptions>/showFilenames /Zc:sizedDealloc /Zc:__cplusplus %(AdditionalOptions)</AdditionalOptions>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -386,7 +386,7 @@
       <ConformanceMode>true</ConformanceMode>
       <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
       <AdditionalIncludeDirectories>..\Library.VC\Nirvana\SRC\Include;..\Library.VC\Nirvana\ORB\Include;dumpolf\COFFI;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
-      <AdditionalOptions>/Zc:sizedDealloc /Zc:__cplusplus -mlzcnt %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalOptions>/showFilenames /Zc:sizedDealloc /Zc:__cplusplus -mlzcnt %(AdditionalOptions)</AdditionalOptions>
       <FunctionLevelLinking>true</FunctionLevelLinking>
     </ClCompile>
     <Link>
@@ -442,7 +442,7 @@
       <ConformanceMode>true</ConformanceMode>
       <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
       <AdditionalIncludeDirectories>..\Library.VC\Nirvana\SRC\Include;..\Library.VC\Nirvana\ORB\Include;dumpolf\COFFI;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
-      <AdditionalOptions>/Zc:sizedDealloc /Zc:__cplusplus -mlzcnt %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalOptions>/showFilenames /Zc:sizedDealloc /Zc:__cplusplus -mlzcnt %(AdditionalOptions)</AdditionalOptions>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
