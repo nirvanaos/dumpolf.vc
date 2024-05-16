@@ -21,16 +21,5 @@
     <ClCompile Include="dumpolf\get_module_metadata_coffi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="dumpolf\ModuleMetadata.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="dumpolf\get_module_metadata.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="dumpolf\ModuleMetadata.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
