@@ -176,7 +176,7 @@
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
-      <AdditionalIncludeDirectories>..\Library.VC\Nirvana\SRC\Include;..\Library.VC\Nirvana\ORB\Include;dumpolf\COFFI;$(SolutionDir)pe\pe_bliss;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\Library.VC\Nirvana\SRC\Include;..\Library.VC\Nirvana\ORB\Include;..\Library.VC\Nirvana\IDL;dumpolf\COFFI;$(SolutionDir)pe\pe_bliss;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>/Zc:__cplusplus %(AdditionalOptions)</AdditionalOptions>
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
@@ -195,7 +195,7 @@
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
-      <AdditionalIncludeDirectories>..\Library.VC\Nirvana\SRC\Include;..\Library.VC\Nirvana\ORB\Include;dumpolf\COFFI;$(SolutionDir)pe\pe_bliss;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\Library.VC\Nirvana\SRC\Include;..\Library.VC\Nirvana\ORB\Include;..\Library.VC\Nirvana\IDL;dumpolf\COFFI;$(SolutionDir)pe\pe_bliss;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>/showFilenames /Zc:sizedDealloc /Zc:__cplusplus %(AdditionalOptions)</AdditionalOptions>
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <SupportJustMyCode>false</SupportJustMyCode>
@@ -215,7 +215,7 @@
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
-      <AdditionalIncludeDirectories>..\Library.VC\Nirvana\SRC\Include;..\Library.VC\Nirvana\ORB\Include;dumpolf\COFFI;$(SolutionDir)pe\pe_bliss;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\Library.VC\Nirvana\SRC\Include;..\Library.VC\Nirvana\ORB\Include;..\Library.VC\Nirvana\IDL;dumpolf\COFFI;$(SolutionDir)pe\pe_bliss;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>/Zc:__cplusplus %(AdditionalOptions)</AdditionalOptions>
       <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
@@ -235,7 +235,7 @@
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
-      <AdditionalIncludeDirectories>..\Library.VC\Nirvana\SRC\Include;..\Library.VC\Nirvana\ORB\Include;dumpolf\COFFI;$(SolutionDir)pe\pe_bliss;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\Library.VC\Nirvana\SRC\Include;..\Library.VC\Nirvana\ORB\Include;..\Library.VC\Nirvana\IDL;dumpolf\COFFI;$(SolutionDir)pe\pe_bliss;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>/showFilenames /Zc:sizedDealloc /Zc:__cplusplus %(AdditionalOptions)</AdditionalOptions>
       <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
@@ -253,7 +253,7 @@
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
-      <AdditionalIncludeDirectories>..\Library.VC\Nirvana\SRC\Include;..\Library.VC\Nirvana\ORB\Include;dumpolf\COFFI;$(SolutionDir)pe\pe_bliss;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\Library.VC\Nirvana\SRC\Include;..\Library.VC\Nirvana\ORB\Include;..\Library.VC\Nirvana\IDL;dumpolf\COFFI;$(SolutionDir)pe\pe_bliss;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>/Zc:sizedDealloc /Zc:__cplusplus %(AdditionalOptions)</AdditionalOptions>
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
@@ -272,7 +272,7 @@
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
-      <AdditionalIncludeDirectories>..\Library.VC\Nirvana\SRC\Include;..\Library.VC\Nirvana\ORB\Include;dumpolf\COFFI;$(SolutionDir)pe\pe_bliss;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\Library.VC\Nirvana\SRC\Include;..\Library.VC\Nirvana\ORB\Include;..\Library.VC\Nirvana\IDL;dumpolf\COFFI;$(SolutionDir)pe\pe_bliss;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>/showFilenames /Zc:sizedDealloc /Zc:__cplusplus -mlzcnt %(AdditionalOptions)</AdditionalOptions>
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <SupportJustMyCode>false</SupportJustMyCode>
@@ -292,7 +292,7 @@
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
-      <AdditionalIncludeDirectories>..\Library.VC\Nirvana\SRC\Include;..\Library.VC\Nirvana\ORB\Include;dumpolf\COFFI;$(SolutionDir)pe\pe_bliss;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\Library.VC\Nirvana\SRC\Include;..\Library.VC\Nirvana\ORB\Include;..\Library.VC\Nirvana\IDL;dumpolf\COFFI;$(SolutionDir)pe\pe_bliss;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>/Zc:sizedDealloc /Zc:__cplusplus %(AdditionalOptions)</AdditionalOptions>
       <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
@@ -312,7 +312,7 @@
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
-      <AdditionalIncludeDirectories>..\Library.VC\Nirvana\SRC\Include;..\Library.VC\Nirvana\ORB\Include;dumpolf\COFFI;$(SolutionDir)pe\pe_bliss;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\Library.VC\Nirvana\SRC\Include;..\Library.VC\Nirvana\ORB\Include;..\Library.VC\Nirvana\IDL;dumpolf\COFFI;$(SolutionDir)pe\pe_bliss;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>/showFilenames /Zc:sizedDealloc /Zc:__cplusplus -mlzcnt %(AdditionalOptions)</AdditionalOptions>
       <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
@@ -325,16 +325,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="dumpolf\main.cpp" />
-    <ClCompile Include="dumpolf\get_module_metadata_coffi.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release LLVM|Win32'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug LLVM|Win32'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release 2022|Win32'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug 2022|Win32'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release LLVM|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug LLVM|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release 2022|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug 2022|x64'">true</ExcludedFromBuild>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Library.VC\Nirvana\LibMock\LibMock.vcxproj">
